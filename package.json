@@ -2,7 +2,7 @@
   "name": "anaheim-body-sculpting",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alrayes-5.github.io/Anaheim-Body-Sculpting-",
+  "homepage": "https://alrayes-5.github.io/Anaheim-Body-Sculpting",
   "dependencies": {
     "@google/genai": "^0.12.0",
     "react": "^18.3.1",
